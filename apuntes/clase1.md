@@ -77,3 +77,24 @@ En este tipo de reconocimiento hay una interacci√≥n directa con el objetivo o v√
 - Escaneo de puertos
 
 
+**Herramientas de reconocimiento pasivo**
+
+- OSINT [https://osintframework.com/](https://osintframework.com/)
+
+- Intellige X [https://intelx.io](https://intelx.io)
+
+- El arte de la ingenieria social [https://www.youtube.com/watch?v=qyJsBjvw2dc](https://www.youtube.com/watch?v=qyJsBjvw2dc)
+
+- Hunter [hunter.io](hunter.io) posee una API.
+
+- Metashield analyzer 
+
+- Modificar la metadata: Tecnicas antiforense.
+
+- [http://pwndb2am4tzkvold.onion/](http://pwndb2am4tzkvold.onion/)
+
+- [https://www.shodan.io/](https://www.shodan.io/)
+
+- Google hacking
+
+- [https://any.run/](https://any.run/)
